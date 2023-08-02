@@ -6,3 +6,4 @@ Creating a new branch is quick.
 I have to create another branch.
 Creating a new branch is quick and simple.
 ADD merge.
+Now I'm doing something on this dev branch.
