@@ -2,4 +2,5 @@ Again!!!
 Add env.txt from my first original "learngit".
 Add env.txt
 The way i try to fix the conflict is keeping two changes.
+I have to modify a new version of try.txt!
 Again and again!!!
